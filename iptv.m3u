@@ -1,1 +1,15 @@
-台視新聞HD, https://www.youtube.com/watch?v=yk2CUjbyyQY
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-country="TW" tvg-url="" group-title="Kids",三立新聞台
+https://www.youtube.com/watch?v=4ZVUmEUFwaY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" tvg-country="TW" tvg-url="" group-title="",TVBS 新聞台
+https://www.youtube.com/watch?v=Hu1FkdAOws0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" tvg-url="" group-title="",東森新聞台
+https://www.youtube.com/watch?v=RaIJ767Bj_M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-country="TW" tvg-url="" group-title="",中天新聞台
+https://www.youtube.com/watch?v=wUPPkSANpyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" tvg-country="TW" tvg-url="" group-title="",民視新聞台
+https://www.youtube.com/watch?v=XxJKnDLYZz4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-country="TW" tvg-url="" group-title="",台視新聞台
+https://www.youtube.com/watch?v=NbjI0cARzjQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:CTV_News_logo.png" tvg-country="TW" tvg-url="" group-title="",中視新聞台
+https://www.youtube.com/watch?v=94wGQ2EFR98
