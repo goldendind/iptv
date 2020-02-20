@@ -5,7 +5,7 @@ http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=Hu1FkdAOws0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" tvg-url="" group-title="",東森新聞台
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=RaIJ767Bj_M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-country="TW" tvg-url="" group-title="",中天新聞台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-url="" group-title="",中天新聞台
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" tvg-country="TW" tvg-url="" group-title="",民視新聞台
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
