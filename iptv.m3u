@@ -1,17 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-country="TW" tvg-url="" group-title="Kids",CH54.三立新聞台
-https://www.youtube.com/watch?v=4ZVUmEUFwaY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" tvg-country="TW" tvg-url="" group-title="",CH55.TVBS 新聞台
-https://www.youtube.com/watch?v=Hu1FkdAOws0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" tvg-url="" group-title="",CH51.東森新聞台
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" ,CH51.東森新聞台
 https://www.youtube.com/watch?v=RaIJ767Bj_M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-url="" group-title="",CH52.中天新聞台
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" ,CH52.中天新聞台
 https://www.youtube.com/watch?v=wUPPkSANpyo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" tvg-country="TW" tvg-url="" group-title="",CH53.民視新聞台
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" ,CH53.民視新聞台
 https://www.youtube.com/watch?v=XxJKnDLYZz4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-country="TW" tvg-url="" group-title="",台視新聞台
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" ,CH54.三立新聞台
+https://www.youtube.com/watch?v=4ZVUmEUFwaY
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" ,CH55.TVBS 新聞台
+https://www.youtube.com/watch?v=Hu1FkdAOws0
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" ,CH57.東森財經新聞台
+https://www.youtube.com/watch?v=dphWo0r27Z4
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" ,台視新聞台
 https://www.youtube.com/watch?v=NbjI0cARzjQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:CTV_News_logo.png" tvg-country="TW" tvg-url="" group-title="",中視新聞台
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" ,中視新聞台
 https://www.youtube.com/watch?v=94wGQ2EFR98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:CTV_News_logo.png" tvg-country="TW" tvg-url="" group-title="",新唐人亞太台
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" ,華視新聞台
+https://www.youtube.com/watch?v=TL8mmew3jb8
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" ,iNews 最正新聞台
+https://www.youtube.com/watch?v=ag9nrgExHyg
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" ,CH9.大愛電視台
+https://www.youtube.com/watch?v=oV_i3Hsl_zg
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="Logo" ,CH13.公共電視
+https://www.youtube.com/watch?v=ED4QXd5xAco
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="Logo" ,CH14.公視台語台
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="Logo" ,CH17.客家電視台
+https://www.youtube.com/watch?v=vgXpF25lbYk
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="Logo" ,CH25.東森幼幼台
+https://www.youtube.com/watch?v=yf7HvqOQQhA
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="Logo" ,CH82.信吉電視台
+https://www.youtube.com/watch?v=99wSRn7RURE
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="Logo" ,台灣藝術台
+https://www.youtube.com/watch?v=KdjIBl-jHbw
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="Logo" ,中華財經台
+https://www.youtube.com/watch?v=O8DV3HN-4Uw
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" ,Bloomberg
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ANN_logo.svg" ,ANNnewsCH
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/CCTV-4_Logo.svg" ,CCTV 中文国际频道
+https://www.youtube.com/watch?v=vCDDYb_M2B4
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/NTD_Television.png" ,新唐人亞太台
 https://www.youtube.com/watch?v=wSKE3A40SIk
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" ,Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/CNN-News18_logo.png" ,CNN News18
+https://www.youtube.com/watch?v=NT5dp_hU_SI
+
